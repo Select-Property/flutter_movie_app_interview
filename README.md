@@ -1,6 +1,6 @@
 # Flutter Technical Test
 
-## Task 1: Build a Movie App
+## Task 1: Build a Simple Movie App
 
 * Create a new Flutter project using the command line or your preferred IDE.
 * Build a movie app that displays a list of movies , with at least two screens: a home screen and a detail screen.
