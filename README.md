@@ -5,7 +5,7 @@
 * Create a new Flutter project using the command line or your preferred IDE.
 * Build a movie app that displays a list of movies , with at least two screens: a home screen and a detail screen.
 * Use any styling library or framework of your choice to make the app visually appealing.
-* Implement dynamic data fetching and display by using RESTful API endpoints that return information about movies, such as [The Movie Database API](https://developers.themoviedb.org/4/getting-started/authorization).
+* Implement dynamic data fetching and display by using the following RESTful API [The Movie Database API](https://developers.themoviedb.org/4/getting-started/authorization).
 
 **Access Token:** `eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4MjNmZDM5OGYwNjNiZTNiZDI0M2RlZTE3ZGJhNjIwOSIsInN1YiI6IjYzZWRmNjdlMWYzZTYwMDBhMWM2NTdkNyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.uBt-U5i3fKwoQS7yjwmQSjU6A8vg4lfaBJ1TwLgpc6k`
 
